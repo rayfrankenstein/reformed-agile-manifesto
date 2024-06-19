@@ -20,7 +20,7 @@ We are reforming agile software development to make software development a saner
 
 * **Simple TODO lists** over extensive planning software.  
 
-* **Sustainable paces** over fast-paced, highly deat march grinds.  
+* **Sustainable paces** over fast-paced, highly death march grinds.  
 
 * **Ounces of prevention** over pounds of cure.
 
