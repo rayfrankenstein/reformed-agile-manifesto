@@ -16,7 +16,7 @@ We are reforming agile software development to make software development a saner
 
 * **Using common sense** over adherence to a methodology.  
 
-* **Accepting the tradeoffs and understanding cause-and-effect** over accepting that it rolls downhill.  
+* **Accepting the tradeoffs and understanding cause-and-effect** over accepting and promoting that it rolls downhill.  
 
 * **Simple TODO lists** over extensive planning software.  
 
